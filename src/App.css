@@ -1,0 +1,38 @@
+
+.headingTop
+{
+  text-align:center;
+}
+.input-task-div
+{
+  border:2px solid black;
+  width:630px;
+  border-radius:30px;
+}
+.input-task
+{
+  width:515px;
+  border-radius:30px;
+}
+.inputs-sec
+{
+  align-items:center;
+  padding-left:30%;
+}
+.inputs-sec>hr
+{
+  padding-right:40px;
+}
+.li_items
+{
+  list-style-type:none;
+  
+}
+.inputItems
+{
+  margin-top:20px;
+}
+.oneList
+{
+  margin-top:20px;
+}
