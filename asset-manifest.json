@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Shahmeer236/assignment-1/static/css/main.06d06598.css",
+    "main.js": "/Shahmeer236/assignment-1/static/js/main.33a76374.js",
+    "static/js/787.0faeda46.chunk.js": "/Shahmeer236/assignment-1/static/js/787.0faeda46.chunk.js",
+    "static/media/shoe_image.png": "/Shahmeer236/assignment-1/static/media/shoe_image.dccc3913a4c46169fc5a.png",
+    "index.html": "/Shahmeer236/assignment-1/index.html",
+    "main.06d06598.css.map": "/Shahmeer236/assignment-1/static/css/main.06d06598.css.map",
+    "main.33a76374.js.map": "/Shahmeer236/assignment-1/static/js/main.33a76374.js.map",
+    "787.0faeda46.chunk.js.map": "/Shahmeer236/assignment-1/static/js/787.0faeda46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06d06598.css",
+    "static/js/main.33a76374.js"
+  ]
+}
